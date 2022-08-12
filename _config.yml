@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Ersin Yilmaz
+description: Some basic examples of client interfaces to a computer vision API
+
+author:
+  name: Ersin Yilmaz
