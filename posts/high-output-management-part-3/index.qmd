@@ -9,7 +9,7 @@ thumbnail: "high-output-management-andy-grove-1.png"
 preview: "high-output-management-andy-grove-1.png"
 ---
 
-![High Output Management -  Part III](https://ersin-yilmaz.com/content/images/size/w2000/2020/02/andy-grove-quote-1.png)
+![](andy-grove-quote-1.png)
 
 ### Teams Of Teams
 
@@ -21,17 +21,17 @@ Though most are mixed, organizations can come in two extreme forms: in totally m
 
 **Mission Oriented:** In the mission oriented organization which is completely decentralized, each individual business unit pursues what it does – its mission – with little tie-in to other units. Each unit is responsible for determining location, constructing its own building, doing its own merchandising, acquiring and maintaining its own personnel and doing its own purchasing.
 
-![](https://ersin-yilmaz.com/content/images/2020/02/image-9.png)
+![](org-chart-1.png)
 
 Mission-Oriented Organization
 
 **Functional:** At the other extreme is the totally functional organization, which is completely centralized. The merchandising department is responsible for merchandising at all locations, the staff of the personnel organization hires, fires and evaluates personnel at all branches; and so on.
 
-![](https://ersin-yilmaz.com/content/images/2020/02/image-10.png)
+![](org-chart-2.png)
 
 **Hybrid:** Intel has a hybrid organization. It has a mix of business divisions, which are mission oriented, and their functional groups. This is much like the way I imagine any army is organized. The business divisions are analogous to individual fighting units, which are provided with blankets, paychecks, aerial surveillance, intelligence and so forth by the functional organization, which supplies such services to all fighting units. Functional groups can be viewed as if they were internal subcontractors.
 
-![](https://ersin-yilmaz.com/content/images/2020/02/image-11.png)
+![](org-chart-3.png)
 
 Hybrid Organization - Intel as an example
 
@@ -57,7 +57,7 @@ There is a temptation to idealize what I've called cultural values as a mode of 
 
 How do we do that? There are two variables here: first, the nature of a person's motivation; and second, the nature of the environment in which the person works. An imaginary composite index can be applied to measure an environment's _Complexity, Uncertainty and Ambiguity_ which we will call a **_CUA Factor_**.
 
-![](https://ersin-yilmaz.com/content/images/2020/02/image-12.png)
+![](cua-factor.png)
 
 It is the manager's job to identify which mode of control is most appropriate
 

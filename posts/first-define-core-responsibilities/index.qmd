@@ -1,0 +1,69 @@
+---
+title: "First Define Core Responsibilities"
+author: "Ersin Yilmaz"
+date: "2023-12-30"
+categories: ["management", "engineering management", "performance management"]
+tags: ["management", "performance management"]
+description: "Start by defining a list of core areas that you expect your team members to be responsible for"
+thumbnail: "high-output-management-andy-grove-1.png"
+preview: "high-output-management-andy-grove-1.png"
+---
+
+![First Define Core Responsibilities](mountain-image.jpeg)
+
+### What are the expectations for an Engineering Manager?
+
+Engineering Managers(_EMs_) do so many things. Let’s start from a high level point of view before diving into tasks that EMs perform on an ad-hoc or recurring basis.
+
+I believe it really boils down to this: **_An Engineering manager is accountable for delivering results the business needs through their teams._**
+
+It is very important to understand that an engineering manager may not be and many times isn’t responsible for carrying out a particular task but he/she is always accountable for the output. No one has as much influence on a team as an EM. No one has as much impact on a team’s output as an EM. As an engineering manager you are expected to assess the situation regularly and ensure that the best results are delivered by your team.
+
+Andrew Grove said this best:
+
+> **_Manager's Output_** _= The output of their organization_ **_+_** _The output of neighboring organizations under their influence._
+
+### Easier said than done…
+
+![](climbing-mountain.jpeg)
+
+Make the investments for the long haul
+
+There are literally hundreds of things that must be done with care and compassion for an EM to build a team that delivers great results. Going one level down from the description above, EMs are responsible for the following areas for their teams:
+
+-   Hiring great talent
+-   Retaining and growing the talent they have on their team
+-   The reliability of the system their team owns
+-   Creating roadmaps that are aligned with business needs, executing these roadmaps, sharing and grading the results of the execution
+-   Evaluating the performance of their directs and communicating results
+-   Aligning with peers across the company to increase the chances of successful results
+
+This is not a comprehensive list but hopefully it gives some idea of the work an EM needs to perform on an ongoing basis.
+
+In my personal experience, the difficulty of these tasks increases drastically as a result of:
+
+1.  A lack of well defined expectations for an engineering manager
+2.  A lack of well defined expectations for engineers
+
+Fixing #1 is hopefully not too difficult, one might just agree with what I put down here in this article and be done with it. 😉 ✅
+
+Defining the expectations for individual contributors is certainly a more complicated and daunting task for many organizations. That said, I think this is exactly where the EM needs to start. Defining the responsibilities of an individual contributor is a pre-requisite for all the work an EM needs to do on an ongoing basis, some of the tasks of which are listed above.
+
+What I’m basically saying is:
+
+-   How do you hire a great engineer if you don’t know how to evaluate them against what their core responsibilities will be?
+-   How do you do performance evaluation for team members if there is no clarity about what your expectations for them are?
+-   How do you ensure your team members are growing if you haven’t defined what they will be responsible for at the next level?
+
+Leaving the core responsibilities of individuals on your team/organization undefined not only makes an EM’s job very difficult but it makes it impossible to be a good EM and build great teams.
+
+### You should start with this...
+
+Start by defining a list of core areas that you expect your team members to be responsible for:
+
+-   Should they be responsible for the results they are delivering?
+-   Should they be responsible for helping to hire new engineers?
+-   Should they be responsible for setting strategic decisions to solve business problems?
+-   Should they be responsible for helping to create a great environment for their team and others in the company?
+
+The responsibilities of an individual contributor will clearly increase based on their years of experience. You will need a common language to define these core responsibilities so that you know how to measure a new hire, grow a team member, or determine if someone is on track to deliver great results.
