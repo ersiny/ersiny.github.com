@@ -5,12 +5,17 @@ project:
 website:
   title: 'Ersin Yilmaz'
   navbar:
+    background: light
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/ersiny
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ersinyilmaz/
+listing:
+  contents: posts
+  sort: 'date desc'
+
 format:
   html:
     theme: cosmo

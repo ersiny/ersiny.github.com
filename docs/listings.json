@@ -4,5 +4,9 @@
     "items": [
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/posts/welcome/index.html",
+    "items": []
   }
 ]
