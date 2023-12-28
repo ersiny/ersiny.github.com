@@ -1,0 +1,37 @@
+---
+title: "Let's Talk More About Imposter Syndrome"
+author: "Ersin Yilmaz"
+date: "2023-12-31"
+categories: ["management", "engineering management", "imposter syndrome", "career development", "career management"]
+tags: ["management", "performance management", "engineering management"]
+description: "An estimated 60% of people experience impostor feelings at top tech companies but very little is done about it."
+thumbnail: "clouds.jpeg"
+preview: "clouds.jpeg"
+---
+
+![Let's Talk More About Imposter Syndrome](clouds.jpeg)
+
+Imposter syndrome is when a person's doubts about their abilities lead to persistent fears of being exposed as a fraud. The most accomplished and skilled individuals can be convinced that they don't deserve what they have achieved.
+
+People with imposter syndrome often feel that they don't belong. This is sometimes a result of that person not fitting the "norms" in race, gender, or educational background for their field.
+
+Unfortunately there are many downsides for those who suffer from imposter syndrome:
+
+-   They might be self-conscious and as a result they won't speak their minds and push for solutions they have in mind.
+-   They might overwork themselves to achieve even more in order to fight against imposter thoughts. This can lead to an unhealthy work/life balance and burnout.
+-   Doubting oneself can cause pain and suffering, leading to depression.
+
+I personally experienced imposter syndrome when I was working as a software engineer, but I felt it much more strongly when I stepped into an engineering management role. I felt that I didn't belong for a few reasons.  English is my second language and I grew up in a culture quite different from that of the US. My educational background also differed from most of my colleagues, who went to Ivy League schools. This difference was glaring because many of the companies I worked for targeted Ivy League schools when hiring engineering talent. I felt out of place knowing that I did not graduate from one of these top private universities. It's not a good reason to conclude that I'm a fraud. However, even if imposter syndrome is not rational, the suffering is still real.
+
+Imposter syndrome is not a rare occurrence, quite the contrary, it is very common in the tech industry. Hopefully it will not take a lot of effort for me to convince you of this fact given the lack of diversity in the tech industry, especially when it comes to gender and race. Despite all of this,  I think the industry does very little to recognize and help address imposter syndrome. People at tech companies need to be informed about this problem.
+
+Here are my suggestions for addressing imposter syndrome at work:
+
+-   Educate employees about imposter syndrome. These thoughts don't reflect reality, and if they learn more about this topic they can break unhealthy thought patterns.
+-   Facilitate mentor/mentee relationships for new employees. Everybody needs to connect with somebody at work.
+-   Make an effort to recognize others' accomplishments. We all tend to be quite occupied with our own thoughts. If you pay attention to your peers and call out their accomplishments you will notice that this act is beneficial for your peers as well as for you.
+-   Treat people fairly regardless of their background, race or gender. Hold everyone to the same bar.
+
+![](bluesky.jpeg)
+
+Imposter syndrome is real and felt by many smart, hardworking people every day. I believe talking about imposter syndrome openly with team members, colleagues, and peers is a good way to start addressing it. Having a conversation about it and sharing personal experiences will encourage others to share and hopefully help reduce or eliminate imposter syndrome.

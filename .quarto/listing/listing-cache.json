@@ -1,15 +1,33 @@
 {
   "listingMap": {
+    "posts/performance-management/index.qmd": [
+      "../../posts"
+    ],
+    "posts/imposter-syndrome/index.qmd": [
+      "../../posts"
+    ],
     "posts/first-define-core-responsibilities/index.qmd": [
       "../../posts"
     ],
     "posts/high-output-management-part-1/index.qmd": [
       "../../posts"
     ],
+    "posts/performance-checkin-conversations/index.qmd": [
+      "../../posts"
+    ],
+    "posts/managing-360-feedback/index.qmd": [
+      "../../posts"
+    ],
     "posts/high-output-management-part-3/index.qmd": [
       "../../posts"
     ],
+    "posts/high-output-management-part-4/index.qmd": [
+      "../../posts"
+    ],
     "posts/high-output-management-part-2/index.qmd": [
+      "../../posts"
+    ],
+    "posts/setting-quarterly-objectives-and-key-results/index.qmd": [
       "../../posts"
     ],
     "index.qmd": [

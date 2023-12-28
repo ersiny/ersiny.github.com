@@ -1,0 +1,45 @@
+---
+title: "Managing 360 Feedback"
+author: "Ersin Yilmaz"
+date: "2023-12-31"
+categories: ["management", "engineering management", "performance management", "OKRs"]
+tags: ["management", "performance management", "OKRs", "engineering management"]
+description: "I don't have to spend a lot of time getting to know a person or building trust before offering Radically Candid guidance. In fact, a great way to get to know somebody and to build trust is to offer Radically Candid praise and criticism - Kim Scott"
+thumbnail: "sailboat-target-okrs.jpeg"
+preview: "sailboat-target-okrs.jpeg"
+---
+
+
+![Managing 360 Feedback](managing-360-feedback.jpeg)
+
+Managers have quite a lot of information about the performance of their directs. However, even though a manager's view is an important piece of the puzzle, it certainly does not provide a complete picture of where that individual stands. Managers often rely on feedback from an individual's teammates and cross-functional partners to come up with a more comprehensive assessment, which can then be used when coaching the individual.
+
+As discussed [here](https://ersin-yilmaz.com/performance-management-scary/), collecting 360 feedback is a critical component of the [Performance Management Process](https://ersin-yilmaz.com/performance-management-scary/). Feedback should be collected throughout the year on a weekly  basis. It is powerful for someone to submit their feedback when they see that their colleague has done an excellent job and should be recognized. Avoiding recency bias is another big benefit of collecting feedback continuously, instead of only once or twice a year.
+
+![Balance](balance-photo.jpeg)
+
+### Giving Effective Feedback
+
+To ensure that your feedback is effective, it is important to keep the following concepts in mind when either providing or requesting it:
+
+-   Care personally. You should be writing feedback for someone because you want to help that individual improve in a particular area, or you want to let that person know that they have done an excellent job. The feedback will likely not be well-received if the reviewer does not provide it with good intentions.
+-   Be specific. If you are acknowledging work well-done, don't just say, "_You did awesome with project X_". Describe the situation, describe what the individual did to move things in the right direction, and explain the individual's impact. The same thing goes for feedback for improvement. Thinking through the details increases the chances that the feedback will be taken seriously and will be found to be useful. This framework is called [SBI](https://www.ccl.org/articles/leading-effectively-articles/hr-pipeline-a-quick-win-to-improve-your-talent-development-process/) (Situation, Behavior and Impact).
+-   Be Flexible. Be prepared to change your mind. Sometimes we don't have the complete picture of a given situation.
+
+![](cool-building.png)
+
+**Who do you ask for feedback?**
+
+-   _Teammates with whom this person works closely_
+-   _Cross-functional partners with whom this person works closely_
+-   Yourself (the manager)
+
+**How many people should you ask to provide feedback?**
+
+_Usually asking 3-5 people to provide feedback should give a manager sufficient insight. If the individual is up for a promotion you should consider asking for feedback from around 6-8 people to ensure you are getting well-balanced and comprehensive feedback. Make sure you get feedback from your senior engineers._
+
+**When to share feedback?**
+
+_You should share the feedback with your directs when things are fresh in their minds. There might be some cases when you need to have an ad-hoc conversation as soon as you received the feedback but in most cases it is OK to wait a few days until your next scheduled 1:1._
+
+Managers should not just rely on their views to get a complete assessment of their team members. They should collect feedback from people with whom the individual works closely. This ensures a manager gets a comprehensive 360 view of the strengths and weaknesses of the individual. To make sure team members are utilizing their strengths and improving their weaknesses, managers need specific feedback focused on individual growth.

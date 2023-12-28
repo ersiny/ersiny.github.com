@@ -1,0 +1,42 @@
+---
+title: "Performance Check-In Conversations"
+author: "Ersin Yilmaz"
+date: "2023-12-31"
+categories: ["management", "engineering management", "performance management"]
+tags: ["management", "performance management", "engineering management"]
+description: ""
+thumbnail: "you-got-this.jpeg"
+preview: "you-got-this.jpeg"
+---
+
+![Performance Check-In Conversations](you-got-this.jpeg)
+
+After setting [quarterly OKRs](https://ersin-yilmaz.com/setting-quarterly-objectives-key-results/) (Objectives and Key Results) and  picking  reviewers who will provide [360 feedback](https://ersin-yilmaz.com/on-giving-feedback/), scheduling a monthly Check-In Conversation will complete the last but very important step for creating a powerful [Performance Management Process](https://ersin-yilmaz.com/performance-management-scary/).  A Performance Management Process should focus on increasing your team's output and impact as well as growing their careers.
+
+Monthly performance check-in conversations may sound like too much of a time commitment, but their benefits will far outweigh the 40 minutes dedicated to them monthly.
+
+![teach me senpai](conversation.jpeg)
+
+
+### The Focus Of Check-In Conversations
+
+The goal of these regular conversations is to ensure that your team members are performing at their grade. You do this by giving both you and your direct the chance to pause and reflect on their progress in different areas of their core responsibilities. Having these conversations monthly promotes strong alignment of goals and the ability to correct course as necessary.
+
+As a manager you need to keep in mind that you are going to have these check-ins monthly. Limit the number of messages you want to convey to your direct. Focus on the few most critical topics and ensure they are followed up on.
+
+The Monthly Check-In conversation is not a weekly 1:1 meeting. It is important for you to make sure that your direct understands the context for these check-in conversations and comes prepared. Here are some of the things both you and your direct need to be prepared to discuss:
+
+-   Come prepared to review and grade their performance in each area of their core responsibilities. Are you concerned about the progress or direction of any of the OKRs? Agree on related action items.
+-   Come prepared to share 360 feedback with your direct and agree on follow up action items.  I highly suggest compiling this feedback in [SBI](https://www.ccl.org/articles/leading-effectively-articles/hr-pipeline-a-quick-win-to-improve-your-talent-development-process/) (Situation, Behavior and Impact) format before communicating.
+-   Check-in conversations focus on longer term (quarterly, annual) goals. You and your direct should come prepared to discuss potential long term projects aligned with your direct's career growth.
+
+![](stars.jpeg)
+
+
+### The main things to keep in mind for check-in conversations:
+
+-   Be explicit about the goals of your check-in meetings. They are not another weekly 1:1.
+-   Make sure to align yourselves on quarterly goals and expectations. Both you and your direct share opinions on progress made toward goals. Disagreements should be surfaced way before deadlines.
+-   Leave with action-items to follow up on. Action items should be tracked.
+
+Monthly check-ins don't need to be too formal or burdensome. You should take advantage of light-weight check-ins to correct course, share feedback, and help your direct achieve their goals.  

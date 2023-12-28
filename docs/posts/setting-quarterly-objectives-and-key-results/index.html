@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Ersin Yilmaz">
+<meta name="dcterms.date" content="2023-12-31">
+<meta name="description" content="There are many ways that a company can set itself above the rest, but in my experience setting, tracking, communicating and grading OKRs plays a critical role in achieving such distinction">
+
+<title>Ersin Yilmaz - Setting Quarterly Objectives &amp; Key Results</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: [],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Ersin Yilmaz</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/ersiny" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/ersinyilmaz/" rel="" target=""><i class="bi bi-linkedin" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Setting Quarterly Objectives &amp; Key Results</h1>
+                  <div>
+        <div class="description">
+          There are many ways that a company can set itself above the rest, but in my experience setting, tracking, communicating and grading OKRs plays a critical role in achieving such distinction
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">management</div>
+                <div class="quarto-category">engineering management</div>
+                <div class="quarto-category">performance management</div>
+                <div class="quarto-category">OKRs</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Ersin Yilmaz </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">December 31, 2023</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<p><img src="sailboat-target-okrs.jpeg" class="img-fluid"></p>
+<blockquote class="blockquote">
+<p><em>No wind favors he who has no destined port. &nbsp;- Montaigne</em></p>
+</blockquote>
+<p>Let’s continue our conversation about <a href="https://ersin-yilmaz.com/performance-management-scary/">Performance Management</a> and dive more into the goal-setting aspect of the process. If you haven’t read <a href="https://ersin-yilmaz.com/performance-management-scary/">Performance Management</a> yet, you should. It lays some groundwork for this post. I’m using Goals and OKRs interchangeably here but since OKRs provide a more structured and measurable way of setting goals, your quarterly planning should really produce a set of OKRs, not just a few goal statements.</p>
+<section id="what-is-an-okr" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-an-okr">What is an OKR?</h3>
+<p>OKR stands for Objectives and Key Results. An OKR-based goal has two components: The <strong>Objective,</strong> which is the goal you want to achieve, and the <strong>Key Results</strong> which are the metrics and measurable accomplishments that show your progress towards achieving that Objective. Put another way, Key Results are how you will know whether you have succeeded in achieving the Objective or not. Establishing both Objectives and Key Results is helpful because together they make the overall intent and the definition of success explicit.</p>
+<blockquote class="blockquote">
+<p><em>To illustrate an objective and a key result, consider the following: I &nbsp;want to go to the airport to catch a plane in an hour. That is my &nbsp;<strong>objective</strong>. I know that I must drive through towns A, B and C on my way &nbsp;to the airport. My key results become reaching A, B and C in 10, 20 and 30 minutes respectively. If I have been driving for 20 minutes and haven’t yet made it to town A, I know I’m lost. &nbsp; – Andy Grove</em></p>
+</blockquote>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="2000m-climb-photo.jpeg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">2000m</figcaption>
+</figure>
+</div>
+<p>milestone</p>
+</section>
+<section id="why-is-setting-okrs-so-important" class="level3">
+<h3 class="anchored" data-anchor-id="why-is-setting-okrs-so-important">Why is setting OKRs so important?</h3>
+<p>There are many ways that a company can set itself above the rest, but in my experience setting, tracking, communicating and grading OKRs plays a critical role in achieving such distinction. This is especially true if such a process is consistently adopted throughout the organization. &nbsp;</p>
+<p>Some benefits of setting OKRs:</p>
+<ul>
+<li>It pushes the team to accomplish the most important goals and tracks progress towards achieving them.</li>
+<li>It increases accountability - assuming OKRs are created, tracked and graded regularly.</li>
+<li>It increases communication across teams, and across the organization.</li>
+<li>It increases transparency across teams, and across the organization.</li>
+</ul>
+</section>
+<section id="operational-aspects-of-setting-okrs." class="level3">
+<h3 class="anchored" data-anchor-id="operational-aspects-of-setting-okrs.">Operational Aspects Of Setting OKRs.</h3>
+<ul>
+<li><strong>When to come up with OKRs</strong></li>
+</ul>
+<p><em>Quarterly is a good interval for setting, grading and communicating OKRs. It usually takes a few meetings for teams to agree on OKRs, plus some time working through a document asynchronously. I would recommend scheduling a few meetings for your team during the last two weeks of the quarter to come up with OKRs.</em></p>
+<ul>
+<li><strong>How to come up with OKRs</strong></li>
+</ul>
+<p>The company’s objectives, requests from other teams, and reliability/sustainability are some of the factors which influence the setting of objectives for your team. As a manager you are responsible for ensuring that your team considers top down objectives as well as bottom up (objectives that your team thinks are priorities) . Eventually there will be a need to make trade-offs. When that happens it is import for your team to know <em><strong>why</strong></em> you are choosing one objective over another.</p>
+<p>Practically speaking, one good way of coming up with objectives is to meet with your team, ask them what the most important priorities for the team should be, and capture their answers in a doc.</p>
+<p>Once ideas are gathered, the next step is to have discussions with your team to figure out which objectives are most important to tackle within the next 3 months. Here are some questions to ask during this vetting process;</p>
+<p><em>Why is this Objective a priority? Why now?</em></p>
+<p><em>Who cares whether this objective is achieved? (Hopefully more than one person)</em></p>
+<p><em>What happens if you don’t &nbsp;work on this objective?</em></p>
+<p><em>How big of an effort is this objective? (T-shirt sizing is probably all you need at this point)</em></p>
+<p><em>Is this objective achievable? Should it be broken down? Are there external dependencies?</em></p>
+<p><em>How do you measure success?</em></p>
+<p>Even though having these conversations in person is a great opportunity for the team to get better aligned and feel a stronger sense of ownership , these conversations can certainly be had in a shared doc as well.</p>
+<ul>
+<li><strong>What is the right number of OKRs for my team?</strong> &nbsp;</li>
+</ul>
+<p><em>Having a few impactful objectives is much better than having many objectives where the value delivered at the end is not clear. &nbsp;The number of objectives will certainly depend on the scope &nbsp;of the objectives as well as the size of the team, but for most teams the number of objectives will be around 3.</em></p>
+</section>
+<section id="things-to-keep-in-mind" class="level3">
+<h3 class="anchored" data-anchor-id="things-to-keep-in-mind">Things to Keep In Mind</h3>
+<ul>
+<li><strong>Easy to understand:</strong> People outside of your team should be able to read and understand the objective. Focus on communicating the expected output not the activities related to the item.</li>
+<li><strong>Get Feedback:</strong> Hopefully your motivation for going through the process of coming up with objectives and key results is to deliver impact and spend your precious time on the most important tasks. &nbsp;Ask smart people and get their thoughts and suggestions on your goals. This does not necessarily mean you adopt every suggestion, but getting feedback will increase the likelihood of coming up with the right goals, and will also increase transparency and trust.</li>
+<li><strong>OKRs are Tracked:</strong> Review your teams progress on their OKRs weekly or bi-weekly and be ready to correct course if needed. Cruise control will not get OKRs to successful completion.</li>
+<li><strong>OKRs are Graded:</strong> OKRs should be graded at the end of the quarter as a team. This is a good time for the team to reflect back, and acknowledge the accomplishments as well as the lessons learned.</li>
+<li><strong>Results are Communicated:</strong> Sharing the output of your team’s hard work is an important step in the OKR cycle. This action not only keeps people who care about and are impacted by the work your team is delivering in the loop, but it also increases ownership and accountability for your team. &nbsp;</li>
+<li><strong>Not Carved on Stone:</strong> Your team will learn more about the tasks as they make progress on their objectives. Sometimes this will require changing the objective or some of the Key Results. As a manager you should be flexible and ensure timely, proactive communication to stake-holders so the team continues to focus on delivering value to end-users. It should never be about checking off a box.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="clean-desk-photo.jpeg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Black and White Desk Flat Lay</figcaption>
+</figure>
+</div>
+<p>OKR planning, Tracking, Communication Should be On a Schedule</p>
+<p>Coming up with OKRs at regular intervals, when combined with regular requests for feedback, and weekly tracking, grading and sharing of results with stakeholders is crucial to making your team successful. Even though coming up with these OKRs may not necessarily be the most pleasant work for you or your team, following a disciplined process will result in many pleasant conversations and communications to the organization about the value your team is delivering. Conversely, the lack of such a disciplined process will result in many unpleasant conversations.</p>
+
+
+
+</section>
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

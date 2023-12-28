@@ -2,14 +2,28 @@
   {
     "listing": "/about.html",
     "items": [
+      "/posts/performance-management/index.html",
+      "/posts/imposter-syndrome/index.html",
+      "/posts/performance-checkin-conversations/index.html",
+      "/posts/managing-360-feedback/index.html",
+      "/posts/setting-quarterly-objectives-and-key-results/index.html",
       "/posts/first-define-core-responsibilities/index.html",
+      "/posts/high-output-management-part-4/index.html",
       "/posts/high-output-management-part-3/index.html",
       "/posts/high-output-management-part-2/index.html",
       "/posts/high-output-management-part-1/index.html"
     ]
   },
   {
-    "listing": "/posts/high-output-management-part-2/index.html",
+    "listing": "/posts/setting-quarterly-objectives-and-key-results/index.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/high-output-management-part-4/index.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/managing-360-feedback/index.html",
     "items": []
   },
   {
@@ -17,7 +31,19 @@
     "items": []
   },
   {
+    "listing": "/posts/imposter-syndrome/index.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/performance-management/index.html",
+    "items": []
+  },
+  {
     "listing": "/posts/first-define-core-responsibilities/index.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/performance-checkin-conversations/index.html",
     "items": []
   },
   {
@@ -25,9 +51,19 @@
     "items": []
   },
   {
+    "listing": "/posts/high-output-management-part-2/index.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/posts/performance-management/index.html",
+      "/posts/imposter-syndrome/index.html",
+      "/posts/performance-checkin-conversations/index.html",
+      "/posts/managing-360-feedback/index.html",
+      "/posts/setting-quarterly-objectives-and-key-results/index.html",
       "/posts/first-define-core-responsibilities/index.html",
+      "/posts/high-output-management-part-4/index.html",
       "/posts/high-output-management-part-3/index.html",
       "/posts/high-output-management-part-2/index.html",
       "/posts/high-output-management-part-1/index.html"

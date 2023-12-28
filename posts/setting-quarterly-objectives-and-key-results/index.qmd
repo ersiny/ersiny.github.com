@@ -1,0 +1,84 @@
+---
+title: "Setting Quarterly Objectives & Key Results"
+author: "Ersin Yilmaz"
+date: "2023-12-31"
+categories: ["management", "engineering management", "performance management", "OKRs"]
+tags: ["management", "performance management", "OKRs", "engineering management"]
+description: "There are many ways that a company can set itself above the rest, but in my experience setting, tracking, communicating and grading OKRs plays a critical role in achieving such distinction"
+thumbnail: "sailboat-target-okrs.jpeg"
+preview: "sailboat-target-okrs.jpeg"
+---
+
+![](sailboat-target-okrs.jpeg)
+
+> _No wind favors he who has no destined port.  - Montaigne_
+
+Let's continue our conversation about [Performance Management](https://ersin-yilmaz.com/performance-management-scary/) and dive more into the goal-setting aspect of the process. If you haven't read [Performance Management](https://ersin-yilmaz.com/performance-management-scary/) yet, you should. It lays some groundwork for this post. I'm using Goals and OKRs interchangeably here but since OKRs provide a more structured and measurable way of setting goals, your quarterly planning should really produce a set of OKRs, not just a few goal statements.
+
+### What is an OKR?
+
+OKR stands for Objectives and Key Results. An OKR-based goal has two components: The **Objective,** which is the goal you want to achieve, and the **Key Results** which are the metrics and measurable accomplishments that show your progress towards achieving that Objective. Put another way, Key Results are how you will know whether you have succeeded in achieving the Objective or not. Establishing both Objectives and Key Results is helpful because together they make the overall intent and the definition of success explicit.
+
+> _To illustrate an objective and a key result, consider the following: I  want to go to the airport to catch a plane in an hour. That is my  **objective**. I know that I must drive through towns A, B and C on my way  to the airport. My key results become reaching A, B and C in 10, 20 and 30 minutes respectively. If I have been driving for 20 minutes and haven't yet made it to town A, I know I'm lost.   – Andy Grove_
+
+![2000m](2000m-climb-photo.jpeg)
+
+milestone
+
+### Why is setting OKRs so important?
+
+There are many ways that a company can set itself above the rest, but in my experience setting, tracking, communicating and grading OKRs plays a critical role in achieving such distinction. This is especially true if such a process is consistently adopted throughout the organization.  
+
+Some benefits of setting OKRs:
+
+-   It pushes the team to accomplish the most important goals and tracks progress towards achieving them.
+-   It increases accountability - assuming OKRs are created, tracked and graded regularly.
+-   It increases communication across teams, and across the organization.
+-   It increases transparency across teams, and across the organization.
+
+### Operational Aspects Of Setting OKRs.
+
+-   **When to come up with OKRs**
+
+_Quarterly is a good interval for setting, grading and communicating OKRs. It usually takes a few meetings for teams to agree on OKRs, plus some time working through a document asynchronously. I would recommend scheduling a few meetings for your team during the last two weeks of the quarter to come up with OKRs._
+
+-   **How to come up with OKRs**
+
+The company's objectives, requests from other teams, and reliability/sustainability are some of the factors which influence the setting of objectives for your team. As a manager you are responsible for ensuring that your team considers top down objectives as well as bottom up (objectives that your team thinks are priorities) . Eventually there will be a need to make trade-offs. When that happens it is import for your team to know _**why**_ you are choosing one objective over another.
+
+Practically speaking, one good way of coming up with objectives is to meet with your team, ask them what the most important priorities for the team should be, and capture their answers in a doc.
+
+Once ideas are gathered, the next step is to have discussions with your team to figure out which objectives are most important to tackle within the next 3 months. Here are some questions to ask during this vetting process;
+
+_Why is this Objective a priority? Why now?_
+
+_Who cares whether this objective is achieved? (Hopefully more than one person)_
+
+_What happens if you don't  work on this objective?_
+
+_How big of an effort is this objective? (T-shirt sizing is probably all you need at this point)_
+
+_Is this objective achievable? Should it be broken down? Are there external dependencies?_
+
+_How do you measure success?_
+
+Even though having these conversations in person is a great opportunity for the team to get better aligned and feel a stronger sense of ownership , these conversations can certainly be had in a shared doc as well.
+
+-   **What is the right number of OKRs for my team?**  
+
+_Having a few impactful objectives is much better than having many objectives where the value delivered at the end is not clear.  The number of objectives will certainly depend on the scope  of the objectives as well as the size of the team, but for most teams the number of objectives will be around 3._
+
+### Things to Keep In Mind
+
+-   **Easy to understand:** People outside of your team should be able to read and understand the objective. Focus on communicating the expected output not the activities related to the item.
+-   **Get Feedback:** Hopefully your motivation for going through the process of coming up with objectives and key results is to deliver impact and spend your precious time on the most important tasks.  Ask smart people and get their thoughts and suggestions on your goals. This does not necessarily mean you adopt every suggestion, but getting feedback will increase the likelihood of coming up with the right goals, and will also increase transparency and trust.
+-   **OKRs are Tracked:** Review your teams progress on their OKRs weekly or bi-weekly and be ready to correct course if needed. Cruise control will not get OKRs to successful completion.
+-   **OKRs are Graded:** OKRs should be graded at the end of the quarter as a team. This is a good time for the team to reflect back, and acknowledge the accomplishments as well as the lessons learned.
+-   **Results are Communicated:** Sharing the output of your team's hard work is an important step in the OKR cycle. This action not only keeps people who care about and are impacted by the work your team is delivering in the loop, but it also increases ownership and accountability for your team.  
+-   **Not Carved on Stone:** Your team will learn more about the tasks as they make progress on their objectives. Sometimes this will require changing the objective or some of the Key Results. As a manager you should be flexible and ensure timely, proactive communication to stake-holders so the team continues to focus on delivering value to end-users. It should never be about checking off a box.
+
+![Black and White Desk Flat Lay](clean-desk-photo.jpeg)
+
+OKR planning, Tracking, Communication Should be On a Schedule
+
+Coming up with OKRs at regular intervals, when combined with regular requests for feedback, and weekly tracking, grading and sharing of results with stakeholders is crucial to making your team successful. Even though coming up with these OKRs may not necessarily be the most pleasant work for you or your team, following a disciplined process will result in many pleasant conversations and communications to the organization about the value your team is delivering. Conversely, the lack of such a disciplined process will result in many unpleasant conversations.
