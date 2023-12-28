@@ -10,5 +10,17 @@
   },
   "about.qmd": {
     "about.html": "330c401d"
+  },
+  "posts/high-output-management-part-1/index.qmd": {
+    "index.html": "52a57c9b"
+  },
+  "posts/high-output-management-part-2/index.qmd": {
+    "index.html": "ec45f83c"
+  },
+  "posts/high-output-management-part-3/index.qmd": {
+    "index.html": "2285f290"
+  },
+  "posts/first-define-core-responsibilities/index.qmd": {
+    "index.html": "31256ce1"
   }
 }

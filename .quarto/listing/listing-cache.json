@@ -1,10 +1,22 @@
 {
   "listingMap": {
+    "posts/first-define-core-responsibilities/index.qmd": [
+      "../../posts"
+    ],
+    "posts/high-output-management-part-1/index.qmd": [
+      "../../posts"
+    ],
+    "posts/high-output-management-part-3/index.qmd": [
+      "../../posts"
+    ],
+    "posts/high-output-management-part-2/index.qmd": [
+      "../../posts"
+    ],
     "index.qmd": [
       "posts"
     ],
-    "posts/welcome/index.qmd": [
-      "../../posts"
+    "about.qmd": [
+      "posts"
     ]
   }
 }
