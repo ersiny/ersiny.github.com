@@ -2,7 +2,7 @@
 title: "Performance Management 🙀"
 author: "Ersin Yilmaz"
 date: "2023-12-31"
-categories: ["management", "engineering management", "imposter syndrome", "career development", "career management"]
+categories: ["management", "engineering management", "career development", "career management"]
 tags: ["management", "performance management", "engineering management"]
 description: "Investment in performance management varies from non-existent in some workplaces to months out of the year in others. Performance management season is the time of year when every manager's stress level sky-rockets and they start dreaming of vacation."
 thumbnail: "plants.jpeg"
