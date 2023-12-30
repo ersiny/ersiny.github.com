@@ -4,6 +4,8 @@ project:
 
 website:
   title: 'Ersin Yilmaz'
+  site-url: https://ersin-yilmaz.com
+  description: "this is Ersin's personal blog"
   navbar:
     background: light
     right:
