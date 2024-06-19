@@ -72,8 +72,6 @@ In all seriousness, we need to ask how we can run a performance management proce
     I sometimes call feedback signals because the word signal indicates continuity. Feedback should be collected throughout the year on a daily/weekly basis. It is powerful for someone to submit feedback when they see that their colleague has done an excellent job in an area that the company values. Avoiding recency bias is another big benefit of collecting feedback continuously instead of only once or twice a year.
     
 
-  
-
 -   **_Hold Regular Performance Check-ins_**
     
    Frequent alignment check-ins are crucial. Providing positive or constructive feedback as soon as possible while it’s still fresh is essential. You can decide whether to schedule a separate meeting for this check-in or use part of your weekly 1:1. Either way, both you and your direct report should know when these check-ins will happen so you can both prepare. These check-ins should be lightweight, ongoing conversations that help align expectations and correct course if necessary. They are also an opportunity to share feedback from others and provide coaching.
