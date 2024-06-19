@@ -21,8 +21,8 @@ As you can imagine, my role varied depending on the stage of the company, but ov
 
 ![](images/path.jpeg)
 
-Reflecting on my experiences at different companies, I noticed both the similarities in the challenges they faced and the significant differences in how they addressed them. Their actions often reflected their core values. While no company gets everything right, some learn and improve over time, whereas others struggle to adapt effectively
+Reflecting on my experiences at different companies, I noticed both the similarities in the challenges they faced and the significant differences in how they addressed them. Their actions often reflected their core values. While no company gets everything right, some learn and improve over time, whereas others struggle to adapt effectively. 
 
-Reflecting on my professional experiences made me realize the need for better management practices in tech companies, both new and established. Sharing experiences and ideas among tech professionals is essential for developing tools that promote best practices. Here, I'm sharing my own experiences and ideas to contribute to this effort
+My professional experiences made me realize the need for better management practices in tech companies, both new and established. Sharing experiences and ideas among tech professionals is essential for developing tools that promote best practices. Here, I'm sharing my own experiences and ideas to contribute to this effort.
 
 I hope you find some of this content useful.
