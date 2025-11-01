@@ -1,7 +1,3 @@
-# Ersin Yilmaz's Blog
-
-Personal blog hosted at [ersin-yilmaz.com](https://ersin-yilmaz.com)
-
 ## Creating a New Blog Post
 
 1. **Create a new folder** in `posts/` with your post name:
