@@ -1,0 +1,46 @@
+---
+format:
+  html:
+    minimal: true
+    page-layout: custom
+---
+
+# TMUX
+
+## Creating Sessions
+
+- `tmux new-session` or `tmux new -s sessionname` - Create a new tmux session
+
+## Attaching to Sessions
+
+- `tmux attach` or `tmux a` - Reattach to the most recent session
+- `tmux list-sessions` or `tmux ls` - Show all active sessions
+
+## Pane Management
+
+### Splitting Panes
+
+- `prefix + %` - Split pane vertically
+- `prefix + "` - Split pane horizontally
+
+### Navigating Panes
+
+- `prefix + arrow keys` - Switch between panes
+- `prefix + z` - Zoom/unzoom current pane (make it full screen)
+
+## Window Management
+
+- `prefix + c` - Create a new window
+- `prefix + n` - Move to next window
+- `prefix + p` - Move to previous window
+- `prefix + [window number]` - Switch directly to a specific window
+
+## Copy Mode
+
+- `prefix + [` - Enter copy mode
+- `prefix + ]` - Paste copied content
+
+## Session Control
+
+- `prefix + d` - Detach from current session
+- `tmux kill-session -t sessionname` - Terminate a specific session

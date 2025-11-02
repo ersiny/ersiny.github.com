@@ -49,5 +49,8 @@
   },
   "reference/vim-commands.qmd": {
     "vim-commands.html": "770f684f"
+  },
+  "tmux-commands.qmd": {
+    "tmux-commands.html": "94f4f969"
   }
 }
