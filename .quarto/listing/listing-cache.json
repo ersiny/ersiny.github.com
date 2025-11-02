@@ -35,6 +35,9 @@
     ],
     "about.qmd": [
       "posts"
+    ],
+    "posts/quarto-features-demo/index.qmd": [
+      "../../posts"
     ]
   }
 }

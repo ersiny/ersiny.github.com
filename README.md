@@ -1,3 +1,17 @@
+## Running Locally
+
+1. **Install Quarto**:
+   ```bash
+   brew install quarto
+   ```
+   Or download from [quarto.org](https://quarto.org/docs/get-started/)
+
+2. **Preview the site**:
+   ```bash
+   quarto preview
+   ```
+   Opens at `http://localhost:4200` with live reload.
+
 ## Creating a New Blog Post
 
 1. **Create a new folder** in `posts/` with your post name:
@@ -32,3 +46,7 @@
    ```
 
 The site will update automatically via GitHub Pages.
+
+## Quarto Features
+
+See `posts/quarto-features-demo/` for examples of callouts, code execution, diagrams, math equations, and more.

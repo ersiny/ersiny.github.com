@@ -1,0 +1,137 @@
+---
+title: "Quarto Features Demo"
+author: "Ersin Yilmaz"
+date: "2025-11-02"
+categories: ["demo", "quarto"]
+description: "Examples of useful Quarto features for blogging"
+draft: true
+---
+
+## Callout Blocks
+
+::: {.callout-note}
+This is a note callout - great for additional context.
+:::
+
+::: {.callout-tip}
+## Pro Tip
+Use callouts to highlight important information!
+:::
+
+::: {.callout-warning}
+Be careful with this approach in production.
+:::
+
+::: {.callout-important}
+Critical information goes here.
+:::
+
+## Code with Execution
+
+```{python}
+#| echo: true
+#| code-fold: false
+
+# Python code that actually runs
+data = [1, 2, 3, 4, 5]
+avg = sum(data) / len(data)
+print(f"Average: {avg}")
+```
+
+## Code with Syntax Highlighting (no execution)
+
+```javascript
+// Just syntax highlighting
+function greet(name) {
+  console.log(`Hello, ${name}!`);
+}
+```
+
+## Math Equations
+
+Inline math: $E = mc^2$
+
+Display math:
+$$
+\frac{-b \pm \sqrt{b^2-4ac}}{2a}
+$$
+
+## Mermaid Diagrams
+
+```{mermaid}
+graph LR
+  A[Start] --> B{Decision}
+  B -->|Yes| C[Do Something]
+  B -->|No| D[Do Something Else]
+  C --> E[End]
+  D --> E
+```
+
+## Tabbed Content
+
+::: {.panel-tabset}
+
+### Code
+```python
+def fibonacci(n):
+    if n <= 1:
+        return n
+    return fibonacci(n-1) + fibonacci(n-2)
+```
+
+### Explanation
+The Fibonacci sequence where each number is the sum of the two preceding ones.
+
+### Output
+```
+0, 1, 1, 2, 3, 5, 8, 13, 21...
+```
+
+:::
+
+## Two Column Layout
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Left column**
+
+- Point one
+- Point two
+- Point three
+:::
+
+::: {.column width="50%"}
+**Right column**
+
+- Another point
+- More details
+- Final thought
+:::
+
+::::
+
+## Figure with Caption
+
+![This is a figure caption](https://via.placeholder.com/600x300){#fig-example}
+
+See @fig-example above for an example.
+
+## Collapsible Code
+
+```{python}
+#| code-fold: true
+#| code-summary: "Show complex code"
+
+# This code is hidden by default
+import random
+numbers = [random.randint(1, 100) for _ in range(10)]
+print(f"Generated: {numbers}")
+```
+
+## Useful Tips
+
+- Set `draft: true` in frontmatter to hide posts
+- Use `#| echo: false` to hide code but show output
+- Use `#| eval: false` to show code but not run it
+- Add line numbers with `#| code-line-numbers: true`
