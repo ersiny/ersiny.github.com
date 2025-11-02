@@ -43,5 +43,8 @@
   },
   "posts/quarto-features-demo/index.qmd": {
     "index.html": "d0c9aaf4"
+  },
+  "vim-commands.qmd": {
+    "vim-commands.html": "b0959d0c"
   }
 }

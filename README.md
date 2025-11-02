@@ -47,6 +47,20 @@
 
 The site will update automatically via GitHub Pages.
 
+## How Publishing Works
+
+GitHub Pages serves your blog from the `docs/` folder:
+
+1. `quarto render` generates static HTML files from your `.qmd` posts into `docs/`
+2. You commit and push the `docs/` folder to GitHub
+3. GitHub Pages serves the static files at ersin-yilmaz.com
+
+**GitHub Pages is configured to:**
+- Deploy from: `master` branch
+- Folder: `/docs`
+
+No server-side rendering happens on GitHub - that's why you must run `quarto render` locally before pushing.
+
 ## Quarto Features
 
 See `posts/quarto-features-demo/` for examples of callouts, code execution, diagrams, math equations, and more.

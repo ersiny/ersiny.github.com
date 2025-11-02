@@ -1,0 +1,33 @@
+---
+format:
+  html:
+    minimal: true
+    page-layout: custom
+---
+
+# VIM
+
+## Horizontal Splits
+
+- `:split` or `:sp` - Open a horizontal split with the current file
+- `:new` - Open a new horizontal split with an empty buffer
+- `Ctrl-w s` - Split window horizontally
+
+## Vertical Splits
+
+- `:vsplit` or `:vs` - Open a vertical split with the current file
+- `:vnew` - Open a new vertical split with an empty buffer
+- `Ctrl-w v` - Split window vertically
+
+## Navigating Between Splits
+
+- `Ctrl-w h` - Move to the split on the left
+- `Ctrl-w j` - Move to the split below
+- `Ctrl-w k` - Move to the split above
+- `Ctrl-w l` - Move to the split on the right
+
+## Tips
+
+- Most split commands can be combined with file paths
+  - `:split filename.txt` - Open filename.txt in a horizontal split
+  - `:vsplit filename.txt` - Open filename.txt in a vertical split

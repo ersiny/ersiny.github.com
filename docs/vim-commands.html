@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Ersin Yilmaz – vim-commands</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+
+
+<link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+
+
+
+<h1 id="vim">VIM</h1>
+<h2 id="horizontal-splits">Horizontal Splits</h2>
+<ul>
+<li><code>:split</code> or <code>:sp</code> - Open a horizontal split with the current file</li>
+<li><code>:new</code> - Open a new horizontal split with an empty buffer</li>
+<li><code>Ctrl-w s</code> - Split window horizontally</li>
+</ul>
+<h2 id="vertical-splits">Vertical Splits</h2>
+<ul>
+<li><code>:vsplit</code> or <code>:vs</code> - Open a vertical split with the current file</li>
+<li><code>:vnew</code> - Open a new vertical split with an empty buffer</li>
+<li><code>Ctrl-w v</code> - Split window vertically</li>
+</ul>
+<h2 id="navigating-between-splits">Navigating Between Splits</h2>
+<ul>
+<li><code>Ctrl-w h</code> - Move to the split on the left</li>
+<li><code>Ctrl-w j</code> - Move to the split below</li>
+<li><code>Ctrl-w k</code> - Move to the split above</li>
+<li><code>Ctrl-w l</code> - Move to the split on the right</li>
+</ul>
+<h2 id="tips">Tips</h2>
+<ul>
+<li>Most split commands can be combined with file paths
+<ul>
+<li><code>:split filename.txt</code> - Open filename.txt in a horizontal split</li>
+<li><code>:vsplit filename.txt</code> - Open filename.txt in a vertical split</li>
+</ul></li>
+</ul>
+
+
+
+
+
+</body></html>
