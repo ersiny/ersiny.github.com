@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/about.html",
+    "listing": "/index.html",
     "items": [
       "/posts/performance-management/index.html",
       "/posts/imposter-syndrome/index.html",
@@ -15,15 +15,15 @@
     ]
   },
   {
-    "listing": "/posts/setting-quarterly-objectives-and-key-results/index.html",
+    "listing": "/posts/high-output-management-part-2/index.html",
     "items": []
   },
   {
-    "listing": "/posts/high-output-management-part-4/index.html",
+    "listing": "/posts/high-output-management-part-3/index.html",
     "items": []
   },
   {
-    "listing": "/posts/managing-360-feedback/index.html",
+    "listing": "/posts/performance-checkin-conversations/index.html",
     "items": []
   },
   {
@@ -43,19 +43,23 @@
     "items": []
   },
   {
-    "listing": "/posts/performance-checkin-conversations/index.html",
+    "listing": "/posts/quarto-features-demo/index.html",
     "items": []
   },
   {
-    "listing": "/posts/high-output-management-part-3/index.html",
+    "listing": "/posts/managing-360-feedback/index.html",
     "items": []
   },
   {
-    "listing": "/posts/high-output-management-part-2/index.html",
+    "listing": "/posts/high-output-management-part-4/index.html",
     "items": []
   },
   {
-    "listing": "/index.html",
+    "listing": "/posts/setting-quarterly-objectives-and-key-results/index.html",
+    "items": []
+  },
+  {
+    "listing": "/about.html",
     "items": [
       "/posts/performance-management/index.html",
       "/posts/imposter-syndrome/index.html",
@@ -68,9 +72,5 @@
       "/posts/high-output-management-part-2/index.html",
       "/posts/high-output-management-part-1/index.html"
     ]
-  },
-  {
-    "listing": "/posts/quarto-features-demo/index.html",
-    "items": []
   }
 ]

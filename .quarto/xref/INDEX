@@ -46,5 +46,8 @@
   },
   "vim-commands.qmd": {
     "vim-commands.html": "b0959d0c"
+  },
+  "reference/vim-commands.qmd": {
+    "vim-commands.html": "770f684f"
   }
 }

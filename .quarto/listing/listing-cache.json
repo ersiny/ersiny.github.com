@@ -12,6 +12,9 @@
     "posts/high-output-management-part-1/index.qmd": [
       "../../posts"
     ],
+    "posts/quarto-features-demo/index.qmd": [
+      "../../posts"
+    ],
     "posts/performance-checkin-conversations/index.qmd": [
       "../../posts"
     ],
@@ -35,9 +38,6 @@
     ],
     "about.qmd": [
       "posts"
-    ],
-    "posts/quarto-features-demo/index.qmd": [
-      "../../posts"
     ]
   }
 }
